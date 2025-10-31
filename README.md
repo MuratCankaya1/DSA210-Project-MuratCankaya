@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Personal Fitness & Energy Analytics Using Huawei Watch Data
+#  Personal Fitness & Energy Analytics Using Huawei Watch Data
 
 ## 1. Motivation
 With the rise of wearable technology, individuals can monitor their health through real-time biometric data.  
