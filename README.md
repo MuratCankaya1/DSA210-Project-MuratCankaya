@@ -22,7 +22,7 @@ The dataset includes daily self-logged values combined with wearable-device styl
 |------------|-----------------|------------------------|
 | **Daily Activity Data** | Total steps, active minutes, movement intensity. | Apple Health, Google Fit, or manual tracking. |
 | **Calorie Expenditure Data** | Total calories burned per day (active + basal). | Wearable export or manual logging. |
-| **Heart Rate Data** | Resting HR, average HR, peak HR. | Apple Watch, Fitbit, or manual estimates. |
+| **Heart Rate Data** | Resting HR, average HR, peak HR. | Digital Watch, Fitbit, or manual estimates. |
 | **Sleep Quality Data** | Total sleep time, deep sleep, sleep efficiency, satisfaction. | Wearable sleep tracking or self-report. |
 | **Gym Activity Data** | Gym attendance, workout duration, intensity (1–10). | Self-logged. |
 | **Study Motivation** | Daily 1–10 study motivation score. | Self-logged. |
