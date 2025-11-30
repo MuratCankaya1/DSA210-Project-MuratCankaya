@@ -7,7 +7,7 @@
 
 This project aims to examine how various health and lifestyle factors — including daily physical activity, calorie expenditure, heart rate patterns, sleep quality, and gym activity — influence a student’s daily study motivation.
 
-Modern wearable devices (Apple Watch, Fitbit, Garmin, etc.) continuously track key physiological and behavioral metrics that reflect a person's overall well-being. Since physical health, sleep quality, and exercise habits are strongly connected to mood, cognitive performance, and motivation, this project investigates whether these measurable signals can help explain or predict daily fluctuations in study motivation.
+Modern wearable devices (Digital Watch, Fitbit, Garmin, etc.) continuously track key physiological and behavioral metrics that reflect a person's overall well-being. Since physical health, sleep quality, and exercise habits are strongly connected to mood, cognitive performance, and motivation, this project investigates whether these measurable signals can help explain or predict daily fluctuations in study motivation.
 
 The goal is to explore whether healthier daily routines and better physical metrics correspond to higher academic motivation levels.
 
